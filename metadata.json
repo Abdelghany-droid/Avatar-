@@ -1,0 +1,7 @@
+{
+  "name": "Shutter Studio",
+  "description": "A futuristic AI-powered camera experience that transforms you into a high-quality 3D game character using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
